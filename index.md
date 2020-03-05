@@ -7,6 +7,6 @@ L’association Firapul a pour objet de créer, produire et diffuser des œuvres
 
 ## Projets soutenus
 
-  - [Le Miroir d'Iyagbon](https://onyrikon.org)
-  - [CAVA](TODO)
+  - [Le Miroir d'Iyagbon](https://www.onyrikon.org/shows/article/iyagbon-s-mirror)
+  - [CAVA](https://www.onyrikon.org/shows/article/cava)
 
