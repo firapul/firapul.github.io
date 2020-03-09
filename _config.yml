@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Firapul
-email: contact@firapul.ch
-description: Association dédiée au soutien à la création d'œuvres dans différents champs artistiques.
+email: firapul@gmail.com
+description: Associazione dedicata al sostegno della creazione artistica
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://firapul.ch" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

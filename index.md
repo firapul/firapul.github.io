@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-L’association Firapul a pour objet de créer, produire et diffuser des œuvres dans le spectacle vivant mais aussi dans d'autres champs artistiques. 
 
-## Projets soutenus
+L'Associazione FIRAPUL ha per scopo la creazione, la produzione e la diffusione di spettacoli, concerti, installazioni, mostre, eventi artistici ed in generale la promozione della cultura.
 
-  - [Le Miroir d'Iyagbon](https://www.onyrikon.org/shows/article/iyagbon-s-mirror)
+## Progetti
+
+  - [Lo specchio di Iyagbon](https://www.onyrikon.org/shows/article/iyagbon-s-mirror)
   - [CAVA](https://www.onyrikon.org/shows/article/cava)
 
