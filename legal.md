@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mentions légales
+title: Menzioni legali
 permalink: /legal/
 ---
 
@@ -12,6 +12,6 @@ permalink: /legal/
 Annamaria Lupi
 +41 76 616 55 51
 
-[Statuti de l'associazione](/images/statuti.pdf)
-[Esonero fiscale](/images/esonero.pdf)
+  - [Statuti de l'associazione](/images/statuti.pdf)
+  - [Esonero fiscale](/images/esonero.pdf)
 
